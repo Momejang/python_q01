@@ -6,6 +6,6 @@
 # 구현된 코드샘플
 str = ''
 
-
+for x in range(10) :
 
 print(str)
