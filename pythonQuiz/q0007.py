@@ -4,8 +4,8 @@
 # print 문은 for문 안에 존재해서는 않됩니다
 
 # 구현된 코드샘플
-str = ''
+string = ''
 
 for x in range(10) :
 
-print(str)
+print(string)
