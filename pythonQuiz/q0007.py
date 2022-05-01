@@ -7,5 +7,6 @@
 string = ''
 
 for x in range(10) :
+    # 내용을 작성하세요
 
 print(string)
