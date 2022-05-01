@@ -4,11 +4,11 @@
 
 
 # 생각한 정답
-str = ''
+string = ''
 for x in range(10) :
-    if(x > 5) :
-        str += '1'
+    if(x > 4) :
+        string += '1'
     else :
-        str += '0'
+        string += '0'
 
-print(str)
+print(string)
