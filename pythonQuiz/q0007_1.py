@@ -11,6 +11,8 @@ tempStr = ''
 
 for x in list :
     # 내용을 작성하세요
+    tempStr = tempStr + 'ABC'
+
 
 print(tempStr)
 
