@@ -17,4 +17,8 @@ for x in list :
 print(tempStr)
 
 # 출력 내용
+# 0
+# 1
+# 0
+# 1
 # 0101
