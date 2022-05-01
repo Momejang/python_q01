@@ -11,7 +11,7 @@ tempStr = ''
 
 for x in list :
     # 내용을 작성하세요
-    tempStr = tempStr + 'ABC'
+    tempStr = tempStr + 'ABC' # 구현할때는 삭제하시오
 
 
 print(tempStr)
